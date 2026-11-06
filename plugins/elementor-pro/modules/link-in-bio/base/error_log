@@ -1,0 +1,8 @@
+[16-Mar-2026 18:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Base\Widget_Link_In_Bio_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/base/widget-link-in-bio-base-pro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/base/widget-link-in-bio-base-pro.php on line 7
+[26-May-2026 01:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Base\Widget_Link_In_Bio_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/base/widget-link-in-bio-base-pro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/base/widget-link-in-bio-base-pro.php on line 7

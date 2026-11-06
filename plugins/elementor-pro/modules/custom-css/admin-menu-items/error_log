@@ -1,0 +1,8 @@
+[16-Mar-2026 21:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Kits\Documents\Tabs\Settings_Custom_CSS" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/custom-css/admin-menu-items/settings-custom-css-pro.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/custom-css/admin-menu-items/settings-custom-css-pro.php on line 9
+[26-May-2026 05:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Kits\Documents\Tabs\Settings_Custom_CSS" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/custom-css/admin-menu-items/settings-custom-css-pro.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/custom-css/admin-menu-items/settings-custom-css-pro.php on line 9

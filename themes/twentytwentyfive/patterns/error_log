@@ -1,0 +1,300 @@
+[31-Jan-2026 02:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-info-locations.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-info-locations.php on line 21
+[31-Jan-2026 02:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/post-navigation.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/post-navigation.php on line 17
+[31-Jan-2026 02:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-book-locations.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-book-locations.php on line 23
+[31-Jan-2026 02:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/text-faqs.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/text-faqs.php on line 21
+[31-Jan-2026 02:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-photo-blog.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-photo-blog.php on line 22
+[31-Jan-2026 02:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-news-blog.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-news-blog.php on line 30
+[31-Jan-2026 02:56:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-schedule.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-schedule.php on line 20
+[31-Jan-2026 02:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-6-col.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-6-col.php on line 18
+[31-Jan-2026 02:57:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-full-width-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-full-width-image.php on line 15
+[31-Jan-2026 02:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/grid-with-categories.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/grid-with-categories.php on line 22
+[31-Jan-2026 02:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-with-description-and-images-grid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-with-description-and-images-grid.php on line 23
+[31-Jan-2026 02:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-text-blog.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-text-blog.php on line 19
+[31-Jan-2026 02:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-vertical-header-blog.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-vertical-header-blog.php on line 82
+[31-Jan-2026 02:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-news-blog.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-news-blog.php on line 39
+[31-Jan-2026 02:58:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-newsletter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-newsletter.php on line 19
+[31-Jan-2026 02:58:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-3-col.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-3-col.php on line 20
+[31-Jan-2026 02:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/pricing-2-col.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/pricing-2-col.php on line 18
+[31-Jan-2026 02:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-portfolio-home.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-portfolio-home.php on line 27
+[31-Jan-2026 02:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-sidebar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-sidebar.php on line 14
+[31-Jan-2026 02:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-with-tight-margins.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-with-tight-margins.php on line 24
+[31-Jan-2026 02:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-cv-bio.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-cv-bio.php on line 28
+[31-Jan-2026 02:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-search.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-search.php on line 14
+[31-Jan-2026 02:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-heading-search.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-heading-search.php on line 18
+[31-Jan-2026 02:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-intro.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-intro.php on line 21
+[31-Jan-2026 02:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-events-list.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-events-list.php on line 19
+[31-Jan-2026 02:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-heading-paragraph-links-image.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-heading-paragraph-links-image.php on line 26
+[31-Jan-2026 02:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-centered.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-centered.php on line 33
+[31-Jan-2026 02:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-left-aligned-content.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-left-aligned-content.php on line 31
+[31-Jan-2026 03:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-book-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-book-links.php on line 17
+[31-Jan-2026 03:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-404.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-404.php on line 21
+[31-Jan-2026 03:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-vertical-header-blog.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-vertical-header-blog.php on line 47
+[31-Jan-2026 03:00:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/more-posts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/more-posts.php on line 18
+[31-Jan-2026 03:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-team-photos.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-team-photos.php on line 21
+[31-Jan-2026 03:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-text-blog.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-text-blog.php on line 36
+[31-Jan-2026 03:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-overlapped-book-cover-with-links.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-overlapped-book-cover-with-links.php on line 28
+[31-Jan-2026 03:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-about-book.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-about-book.php on line 22
+[31-Jan-2026 03:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-photo-blog.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-photo-blog.php on line 36
+[31-Jan-2026 03:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-3-col.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-3-col.php on line 17
+[31-Jan-2026 03:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-centered-heading.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-centered-heading.php on line 19
+[31-Jan-2026 03:01:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-written-by.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-written-by.php on line 16
+[31-Jan-2026 03:01:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-coming-soon.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-coming-soon.php on line 18
+[31-Jan-2026 03:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-grid-products-link.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/cta-grid-products-link.php on line 20
+[31-Jan-2026 03:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-book.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-book.php on line 21
+[31-Jan-2026 03:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-location-and-link.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-location-and-link.php on line 22
+[31-Jan-2026 03:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/format-audio.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/format-audio.php on line 20
+[31-Jan-2026 03:02:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/comments.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/comments.php on line 18
+[31-Jan-2026 03:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-text-blog.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-text-blog.php on line 20
+[31-Jan-2026 03:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-social.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-social.php on line 20
+[31-Jan-2026 03:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-posts-grid-news-blog.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-posts-grid-news-blog.php on line 34
+[31-Jan-2026 03:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-offset.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-single-offset.php on line 40
+[31-Jan-2026 03:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-newsletter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-newsletter.php on line 20
+[31-Jan-2026 03:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-photo-blog.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop-photo-blog.php on line 22
+[31-Jan-2026 03:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-poster.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-poster.php on line 14
+[31-Jan-2026 03:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-columns.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer-columns.php on line 33
+[31-Jan-2026 03:03:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-news-blog.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-news-blog.php on line 40
+[31-Jan-2026 03:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-intro-image.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-intro-image.php on line 22
+[31-Jan-2026 03:04:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-centered-social-link.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/contact-centered-social-link.php on line 21
+[31-Jan-2026 03:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/heading-and-paragraph-with-image.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/heading-and-paragraph-with-image.php on line 23
+[31-Jan-2026 03:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/pricing-3-col.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/pricing-3-col.php on line 19
+[31-Jan-2026 03:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-subscriber-only-section.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/services-subscriber-only-section.php on line 21
+[31-Jan-2026 03:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-with-sidebar-news-blog.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-home-with-sidebar-news-blog.php on line 42
+[31-Jan-2026 03:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/template-query-loop.php on line 31
+[31-Jan-2026 03:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/grid-videos.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/grid-videos.php on line 19
+[31-Jan-2026 03:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/logos.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/logos.php on line 17
+[31-Jan-2026 03:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/overlapped-images.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/overlapped-images.php on line 21
+[31-Jan-2026 03:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/footer.php on line 45
+[31-Jan-2026 03:05:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-wide-margins.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/page-link-in-bio-wide-margins.php on line 24
+[31-Jan-2026 03:05:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-2-col.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-2-col.php on line 26
+[31-Jan-2026 03:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-cover-big-heading.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/banner-cover-big-heading.php on line 20
+[31-Jan-2026 03:06:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-rsvp.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/event-rsvp.php on line 28
+[31-Jan-2026 03:06:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/format-link.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/format-link.php on line 17
+[31-Jan-2026 03:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-podcast.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hero-podcast.php on line 22
+[31-Jan-2026 03:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-large.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/testimonials-large.php on line 24
+[31-Jan-2026 03:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/media-instagram-grid.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/media-instagram-grid.php on line 24
+[31-Jan-2026 03:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-blog-heading.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/patterns/hidden-blog-heading.php on line 15

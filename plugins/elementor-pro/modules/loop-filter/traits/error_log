@@ -1,0 +1,2 @@
+[16-Mar-2026 20:05:02 UTC] PHP Fatal error:  Trait "ElementorPro\Modules\LoopFilter\Traits\Hierarchical_Taxonomy_Trait" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-filter/traits/taxonomy-filter-trait.php on line 10
+[26-May-2026 03:59:22 UTC] PHP Fatal error:  Trait "ElementorPro\Modules\LoopFilter\Traits\Hierarchical_Taxonomy_Trait" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-filter/traits/taxonomy-filter-trait.php on line 10

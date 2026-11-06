@@ -1,0 +1,8 @@
+[16-Mar-2026 18:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[26-May-2026 02:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10

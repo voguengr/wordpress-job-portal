@@ -1,0 +1,4 @@
+[01-Nov-2026 17:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function did_action() in /home/doxuhne1/public_html/wp-content/plugins/wp-job-board-pro/libraries/class-tgm-plugin-activation.php:2109
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/wp-job-board-pro/libraries/class-tgm-plugin-activation.php on line 2109

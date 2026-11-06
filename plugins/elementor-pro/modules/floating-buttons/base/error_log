@@ -1,0 +1,16 @@
+[16-Mar-2026 17:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[16-Mar-2026 18:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[26-May-2026 01:47:59 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[26-May-2026 01:48:08 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8

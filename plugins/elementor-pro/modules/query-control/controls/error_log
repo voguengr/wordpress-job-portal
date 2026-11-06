@@ -1,0 +1,8 @@
+[16-Mar-2026 18:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Modules\QueryControl\Controls\Group_Control_Query" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/query-control/controls/group-control-taxonomy.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/query-control/controls/group-control-taxonomy.php on line 7
+[26-May-2026 02:15:47 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Modules\QueryControl\Controls\Group_Control_Query" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/query-control/controls/group-control-taxonomy.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/query-control/controls/group-control-taxonomy.php on line 7

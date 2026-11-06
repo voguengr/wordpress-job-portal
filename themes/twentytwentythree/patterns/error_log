@@ -1,0 +1,28 @@
+[31-Jan-2026 02:56:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/footer-default.php on line 20
+[31-Jan-2026 03:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/call-to-action.php on line 16
+[31-Jan-2026 03:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-comments.php on line 13
+[31-Jan-2026 03:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-heading.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-heading.php on line 9
+[31-Jan-2026 03:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/post-meta.php on line 29
+[31-Jan-2026 03:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13
+[31-Jan-2026 03:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php on line 10

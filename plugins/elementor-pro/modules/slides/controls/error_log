@@ -1,0 +1,8 @@
+[16-Mar-2026 18:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Control_Hover_Animation" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/slides/controls/control-slides-animation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/slides/controls/control-slides-animation.php on line 6
+[26-May-2026 02:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Control_Hover_Animation" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/slides/controls/control-slides-animation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/slides/controls/control-slides-animation.php on line 6

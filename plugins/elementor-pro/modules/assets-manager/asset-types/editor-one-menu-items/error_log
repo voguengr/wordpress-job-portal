@@ -1,0 +1,8 @@
+[16-Mar-2026 18:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Modules\AssetsManager\AssetTypes\AdminMenuItems\Custom_Icons_Promotion_Menu_Item" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/editor-one-menu-items/editor-one-icons-promotion.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/editor-one-menu-items/editor-one-icons-promotion.php on line 10
+[26-May-2026 02:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Modules\AssetsManager\AssetTypes\AdminMenuItems\Custom_Icons_Promotion_Menu_Item" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/editor-one-menu-items/editor-one-icons-promotion.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/editor-one-menu-items/editor-one-icons-promotion.php on line 10

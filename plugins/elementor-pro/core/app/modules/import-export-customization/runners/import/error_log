@@ -1,0 +1,8 @@
+[16-Mar-2026 18:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Core\App\Modules\ImportExportCustomization\Runners\Base\Import_Runner_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export-customization/runners/import/taxonomies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export-customization/runners/import/taxonomies.php on line 8
+[26-May-2026 02:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "ElementorPro\Core\App\Modules\ImportExportCustomization\Runners\Base\Import_Runner_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export-customization/runners/import/taxonomies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/app/modules/import-export-customization/runners/import/taxonomies.php on line 8

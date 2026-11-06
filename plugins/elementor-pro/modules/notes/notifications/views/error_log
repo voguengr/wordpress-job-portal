@@ -1,0 +1,8 @@
+[16-Mar-2026 18:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_rtl() in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/notes/notifications/views/email.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/notes/notifications/views/email.php on line 13
+[26-May-2026 02:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_rtl() in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/notes/notifications/views/email.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/notes/notifications/views/email.php on line 13

@@ -1,0 +1,8 @@
+[16-Mar-2026 21:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\DynamicTags\Dynamic_CSS" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/files/css/loop-dynamic-css.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/files/css/loop-dynamic-css.php on line 7
+[26-May-2026 05:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\DynamicTags\Dynamic_CSS" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/files/css/loop-dynamic-css.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/loop-builder/files/css/loop-dynamic-css.php on line 7

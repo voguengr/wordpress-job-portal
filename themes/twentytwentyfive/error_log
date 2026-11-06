@@ -1,0 +1,12 @@
+[31-Jan-2026 03:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Mar-2026 06:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25
+[22-Mar-2026 06:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/twentytwentyfive/functions.php on line 25

@@ -1,0 +1,16 @@
+[16-Mar-2026 18:16:00 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/single-button-cta-render.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/single-button-cta-render.php on line 7
+[16-Mar-2026 18:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Render_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/icons-below-cta-render.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/icons-below-cta-render.php on line 7
+[26-May-2026 01:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/single-button-cta-render.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/single-button-cta-render.php on line 7
+[26-May-2026 02:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Render_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/icons-below-cta-render.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/link-in-bio/classes/render/icons-below-cta-render.php on line 7

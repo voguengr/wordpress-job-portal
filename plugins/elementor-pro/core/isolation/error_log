@@ -1,0 +1,8 @@
+[16-Mar-2026 18:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Core\Isolation\Wordpress_Adapter_Interface" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[26-May-2026 02:13:09 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Core\Isolation\Wordpress_Adapter_Interface" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5

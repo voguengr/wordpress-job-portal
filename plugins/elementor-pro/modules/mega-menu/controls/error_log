@@ -1,0 +1,8 @@
+[16-Mar-2026 18:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Control_Hover_Animation" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/mega-menu/controls/control-menu-dropdown-animation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/mega-menu/controls/control-menu-dropdown-animation.php on line 6
+[26-May-2026 02:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Control_Hover_Animation" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/mega-menu/controls/control-menu-dropdown-animation.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/mega-menu/controls/control-menu-dropdown-animation.php on line 6

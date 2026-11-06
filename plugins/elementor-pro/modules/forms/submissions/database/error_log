@@ -1,0 +1,16 @@
+[16-Mar-2026 18:32:29 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Base\Base_Object" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[16-Mar-2026 18:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Base\Base_Object" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[26-May-2026 02:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Base\Base_Object" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[26-May-2026 02:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Base\Base_Object" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11

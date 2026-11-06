@@ -1,0 +1,88 @@
+[16-Mar-2026 17:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Floating_Bars_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-3-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-3-render.php on line 8
+[16-Mar-2026 17:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Floating_Bars_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-2-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-2-render.php on line 8
+[16-Mar-2026 17:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-9-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-9-render.php on line 8
+[16-Mar-2026 17:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-1-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-1-render.php on line 8
+[16-Mar-2026 17:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-8-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-8-render.php on line 9
+[16-Mar-2026 17:41:24 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-3-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-3-render.php on line 9
+[16-Mar-2026 17:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-7-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-7-render.php on line 8
+[16-Mar-2026 17:42:18 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-4-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-4-render.php on line 9
+[16-Mar-2026 17:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-6-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-6-render.php on line 9
+[16-Mar-2026 17:44:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-5-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-5-render.php on line 8
+[16-Mar-2026 17:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-10-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-10-render.php on line 9
+[26-May-2026 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Floating_Bars_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-2-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-2-render.php on line 8
+[26-May-2026 01:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Floating_Bars_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-3-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/floating-bars-var-3-render.php on line 8
+[26-May-2026 01:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-8-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-8-render.php on line 9
+[26-May-2026 01:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-9-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-9-render.php on line 8
+[26-May-2026 01:28:20 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-5-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-5-render.php on line 8
+[26-May-2026 01:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-6-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-6-render.php on line 9
+[26-May-2026 01:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-1-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-1-render.php on line 8
+[26-May-2026 01:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-4-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-4-render.php on line 9
+[26-May-2026 01:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-3-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-3-render.php on line 9
+[26-May-2026 01:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-7-render.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-7-render.php on line 8
+[26-May-2026 01:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Core_Render" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-10-render.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/floating-buttons/classes/render/contact-buttons-var-10-render.php on line 9

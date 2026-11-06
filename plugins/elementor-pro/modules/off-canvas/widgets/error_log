@@ -1,0 +1,8 @@
+[16-Mar-2026 18:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\NestedElements\Base\Widget_Nested_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[26-May-2026 02:12:01 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\NestedElements\Base\Widget_Nested_Base" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14

@@ -1,0 +1,4 @@
+[01-Nov-2026 17:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/doxuhne1/public_html/wp-content/themes/superio/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/themes/superio/index.php on line 17

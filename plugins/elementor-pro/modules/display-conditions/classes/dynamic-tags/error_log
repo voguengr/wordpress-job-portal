@@ -1,0 +1,16 @@
+[16-Mar-2026 20:15:21 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php on line 7
+[16-Mar-2026 20:18:14 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php on line 6
+[26-May-2026 04:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php on line 7
+[26-May-2026 04:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface "ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider" not found in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/doxuhne1/public_html/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php on line 6
